@@ -1,0 +1,2 @@
+dictionary = {}
+print(type(dictionary))
